@@ -94,3 +94,4 @@ Un cop tinguis el teu codi testejat, obre la terminal i executa les següents co
    ```bash
    git push
    ```
+# Solucions Leonardo
