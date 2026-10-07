@@ -95,3 +95,4 @@ Un cop tinguis el teu codi testejat, obre la terminal i executa les següents co
    git push
    ```
 # Solucions Leonardo
+# Solucions Leonardo
